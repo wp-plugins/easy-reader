@@ -1,0 +1,125 @@
+/* @override 
+	http://localhost/wp3/wp-content/plugins/easy-reader/post.css
+*/
+
+body{
+	overflow-y: scroll;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin: 50px 50px 50px 50px;
+	background: white;
+	color: #333333;
+	font-size: 1.2em;
+}
+
+img{
+	border: 0;
+}
+
+p, ul, ul, li{
+	letter-spacing: 0.08em;
+	line-height: 1.65em;
+	color: #333333;
+	margin-bottom: 1em;
+}
+
+ul li, ol li{
+	margin-bottom: 0.25em;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin: 0 0 0.75em 0;
+	font-weight: bold;
+}
+
+.share-icons{
+	text-align: center;
+}
+
+.share-icons span{
+	display: block;
+	font-size: 20px;
+	margin: 25px 0 5px 0;
+	font-style: italic;
+	color: #666666;
+}
+
+/* @group Close Link */
+
+a.close-link{
+	font-style: italic;
+	color: #0000e3;
+}
+
+.close-link-p{
+	text-align: center;
+}
+
+/* @end */
+
+/* @group Image Align Stuff */
+
+.alignright{
+	float: right;
+	margin: 0 0 20px 20px;
+}
+
+.alignleft{
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+.wp-caption{
+	background: #f6f6f6;
+	padding: 0;
+	border: 1px solid #c1c2c3;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+}
+
+.wp-caption img{
+	margin: 5px;
+}
+
+.wp-caption p{
+	margin: 5px;
+	font: 16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 0;
+}
+
+/* @end */
+
+blockquote{
+	display: block;
+	font-style: italic;
+	margin-left: 30px;
+	padding-left: 10px;
+	border-left: 4px solid #999;
+}
+
+/* @group The action buttons */
+
+#action-buttons {
+	float: right;
+	margin-top: 10px;
+}
+
+#action-buttons a{
+	text-decoration: none;
+	float: right;
+	margin-left: 15px;
+	color: #333333;
+	background-color: #ebebeb;
+	display: block;
+	padding: 5px 15px;
+	
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border: 1px solid #999999;
+}
+
+
+/* @end */

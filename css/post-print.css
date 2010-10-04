@@ -1,0 +1,27 @@
+/* @override http://localhost/wp3/wp-content/plugins/easy-reader/easy-reader.css */
+
+body{
+	color: black;
+	margin: 0;
+	font-size: 1.2em;
+	letter-spacing: 0.08em;
+	line-height: 1.65em;
+}
+
+p, ul, ul, li{
+	color: black;
+}
+
+#action-buttons{
+	display: none;
+}
+
+.share-icons{
+	display: none;
+}
+
+blockquote{
+	font-style: italic;
+	margin-left: 30px;
+	padding-left: 10px;
+}
