@@ -3,7 +3,7 @@ Contributors: gpriday
 Tags: readability, accessibility
 Requires at least: 2.6
 Tested up to: 3.0
-Stable tag: 0.1
+Stable tag: trunk
 
 Easy Reader is a WordPress plugin that lets your readers open an easy to read version of your blog posts.
 
