@@ -8,13 +8,9 @@ Stable tag: trunk
 Easy Reader is a WordPress plugin that lets your readers open an easy to read version of your blog posts.
 
 == Description ==
-When you built your blog, you probably found a theme that looked good and matched your unique style. That’s great! That’s what blogging is about. But all that styling distracts your readers from your content and slows down their reading. Especially if your theme uses small, mystifying text.
+Easy Reader adds a button to all your posts. When your users click this, they'll see an easy-to-read version of content. Check out the [demo of Easy Reader](http://siteorigin.com/2010/easy-reader-plugin/) - your readers will appreciate this feature.
 
-After you install Easy Reader, it gives your readers a button that drops down a window with large, easy to read text. Check out the Easy Reader demo and you’ll be able to see why your readers will appreciate this plugin.
-
-Easy Reader also lets you add and customise a selection of social media badges at the bottom of your post (everyone loves to share).
-
-You can check out a full [demo of Easy Reader here](http://siteorigin.com/2010/easy-reader-plugin/).
+Easy Reader also lets you add and customize a selection of social media badges at the bottom of your post (everyone loves to share).
 
 == Screenshots ==
 1. This is what your post will look like after your reader clicks the easy reader button.
